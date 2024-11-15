@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0
+}
+
+.footer{
+    text-align: center;
+    background-color: #007BFF;
+    height: 80px;
+    align-content: center;
+    margin-top: auto;
+  }
